@@ -225,7 +225,7 @@ a{
 .header{
     padding-top:26px;
     min-height:700px;
-    background-image:url(../img/hero-bg.png);
+    background-image:url("../img/hero-bg.png");
     background-position:top center;
     background-size:cover;
     background-repeat:no-repeat;
@@ -237,7 +237,7 @@ a{
     .header{
         padding-top:18px;
         min-height:774px;
-        background-image:url(../img/main-screen.png);
+        background-image:url("../img/main-screen.png");
         background-position:top center;
         background-size:cover;
         background-repeat:no-repeat;
@@ -588,7 +588,7 @@ a{
     max-width:402px;
     width:100%;
     height:210px;
-    background-image:url(../img/plane.png);
+    background-image:url("../img/plane.png");
     background-repeat:no-repeat;
     background-size:cover;
     z-index:100;
@@ -666,7 +666,7 @@ a{
     font-size:20px;
     line-height:120%;
     color:var(--dark-color);
-    background-image:url(../img/item-bg.png);
+    background-image:url("../img/item-bg.png");
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -852,7 +852,7 @@ a{
 .footer{
     padding-top:40px;
     padding-bottom:72px;
-    background-image:url(../img/footer-bg.png);
+    background-image:url("../img/footer-bg.png");
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
