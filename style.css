@@ -315,6 +315,7 @@ a{
     position:relative;
     overflow:hidden;
     background-color:var(--primary-color);
+    margin-top: -17px;
 }
 .ticker--footer{
     margin-bottom:0;
